@@ -12,4 +12,4 @@ You can read more about my professional background on [LinkedIn](https://www.lin
 
 How about buying me a coffee? You can use any of the platform below:
 
-[GitHub Sponsors](https://github.com/sponsors/jcayzac) [Revolut](https://revolut.me/julienswap) [Wise](https://wise.com/pay/me/julienc375) [Ko-Fi](https://ko-fi.com/jcayzac) [PayPal](https://paypal.me/jcayzac)
+[GitHub Sponsors](https://github.com/sponsors/jcayzac) ・ [Revolut](https://revolut.me/julienswap) ・ [Wise](https://wise.com/pay/me/julienc375) ・ [Ko-Fi](https://ko-fi.com/jcayzac) ・ [PayPal](https://paypal.me/jcayzac)
