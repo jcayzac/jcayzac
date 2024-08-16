@@ -1,5 +1,3 @@
-## Julien Cayzac
-
 **Software Architect** // **Engineering Manager** // **DIYer** // **Amateur Quant**
 
 Over the years, I have been a mobile developer, an entrepreneur, a full-stack programmer, a competitive intelligence consultant, a lead software engineer, an engineering manager, a tech strategist, a solution architect and an application architect, in no particular order. Still learning anything I can.
